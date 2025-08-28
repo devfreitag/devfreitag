@@ -9,20 +9,6 @@ I'm a Software Engineer with a strong backend focus, passionate about creating s
 - TV series enthusiast — favorites include The Office & Dexter
 - Find me on Twitter: [@devfreitag](https://twitter.com/devfreitag)
 
-## Tech Stack
-
-- Java
-- Spring Boot
-- Apache Beam
-- Google Cloud
-- React Native
-
-## What I’m up to
-
-- Backend engineering @ GPA
-- Building a new mobile app from scratch
-- Balancing code, games, and family life
-
 ---
 
 > “The secret to getting ahead is getting started.” — Mark Twain
