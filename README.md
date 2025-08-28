@@ -1,6 +1,6 @@
 ## Hey, I'm Alex 👋
 
-Software Engineer working at GPA for 4 years. Backend focused but I like mobile development too.
+Software Engineer with +7 years of experience, currently working at GPA. Backend focused but I like mobile development too.
 
 **Tech Stack:**
 - Java (Spring Boot, Apache Beam)
